@@ -1,10 +1,10 @@
 /*
 * 1-conjugate.c - Conjugate of ocmplex
-* Author: Mozamane baloyi
+* Author: Rodrigo Zárate Algecira
 * Date: July 30, 2021
 */
 
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
 
 /**

@@ -1,10 +1,10 @@
 /*
 * 0-display.c
-* Author: Mozamane Baloyi
-* Date: March 15, 2022
+* Author: Rodrigo Zárate Algecira
+* Date: July 22, 2021
 */
 
-#include "main.h"
+#include "holberton.h"
 
 /**
 * display_complex_number - Display complex number

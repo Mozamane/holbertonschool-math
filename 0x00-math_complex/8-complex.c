@@ -1,10 +1,10 @@
 /*
 * 8-complex.c - update complex based on modulus and arguments
-* Author: Mozamane Baloyi
-* Date: March 15, 2022
+* Author: Rodrigo Zárate Algecira
+* Date: August 03, 2021
 */
 
-#include "main.h"
+#include "holberton.h"
 #include <math.h>
 
 /**
