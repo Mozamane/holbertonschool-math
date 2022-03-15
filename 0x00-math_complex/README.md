@@ -1,6 +1,3 @@
-Author: Mozamane Baloyi
-Date  : March 09, 2022
-
 # 0x00. Math - Complex
 ## Learning Objectives
 

@@ -1,7 +1,7 @@
 /*
 * 1-conjugate.c - Conjugate of ocmplex
-* Author: Mozamane Baloyi
-* Date: March 09, 2022
+* Author: Mozamane baloyi
+* Date: July 30, 2021
 */
 
 #include "main.h"

@@ -1,7 +1,7 @@
 /*
-* 2-modulus.c - Modulus of complex
-* Author: Rodrigo Zárate Algecira
-* Date: March 09, 2022
+* 7-Modulus.c - Modulus
+* Author: Mozamane Baloyi
+* Date: March 15, 2022
 */
 
 #include "main.h"

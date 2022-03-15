@@ -1,7 +1,7 @@
 /*
 * 7-division.c - division of complex
 * Author: Mozamane Baloyi
-* Date: March 09, 2022
+* Date: March 15, 2022
 */
 
 #include "main.h"

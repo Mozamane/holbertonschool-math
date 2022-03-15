@@ -1,7 +1,7 @@
 /*
-* 4-addition.c - Addition of complex
-* Author: Mozamane baloyi
-* Date: March 09, 2022
+* 7-division.c - division of complex
+* Author: Mozamane Baloyi
+* Date: March 15, 2022
 */
 
 #include "main.h"
