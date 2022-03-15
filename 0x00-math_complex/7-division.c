@@ -1,10 +1,10 @@
 /*
 * 7-division.c - division of complex
-* Author: Rodrigo Zárate Algecira
-* Date: July 30, 2021
+* Author: Mozamane
+* Date: March 15, 2022 
 */
 
-#include "holberton.h"
+#include "main.h"
 #include <math.h>
 
 /**
