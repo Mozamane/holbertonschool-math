@@ -1,6 +1,6 @@
 /*
-* 0-display.c
-* Author: Mduduzi Silinda
+* 4-addition.c
+* Author: Mozamane Baloyi
 * Date: March 16, 2022
 */
 
