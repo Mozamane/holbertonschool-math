@@ -1,5 +1,5 @@
 /*
-* 0-display.c
+* 6-multiplication.c
 * Author: Mozamane Baloyi
 * Date: March 16, 2022
 */
