@@ -1,6 +1,6 @@
 /*
-* 0-display.c
-* Author: Mduduzi Silinda
+* 5-substraction.c
+* Author: Mozamane Baloyi
 * Date: March 16, 2022
 */
 #include "holberton.h"
