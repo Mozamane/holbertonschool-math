@@ -1,10 +1,10 @@
 /*
 * 0-display.c
-* Author: Mozamane
-* Date: March 15, 2022
+* Author: Mozamane Baloyi
+* Date: March 16, 2022
 */
 
-#include "main.h"
+#include "mainn.h"
 
 /**
 * display_complex_number - Display complex number

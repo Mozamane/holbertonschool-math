@@ -1,7 +1,7 @@
 /*
-* 2-modulus.c - Modulus of complex
-* Author: Mozamane
-* Date: March 15, 2022
+* 0-display.c
+* Author: Mozamane baloyi
+* Date: March 16, 2022
 */
 
 #include "main.h"

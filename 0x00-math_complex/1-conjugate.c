@@ -1,9 +1,8 @@
 /*
-* 1-conjugate.c - Conjugate of ocmplex
-* Author: Mozamane
-* Date: March 15, 2022
+* 0-display.c
+* Author: Mozamane Baloyi
+* Date: March 16, 2022
 */
-
 #include "main.h"
 #include <stdio.h>
 

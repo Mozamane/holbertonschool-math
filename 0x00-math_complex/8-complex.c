@@ -1,7 +1,7 @@
 /*
-* 8-complex.c - update complex based on modulus and arguments
-* Author: Mozamane
-* Date: March 15, 2022
+* 0-display.c
+* Author: Mozamane Baloyi
+* Date: March 16, 2022
 */
 
 #include "main.h"

@@ -1,9 +1,8 @@
 /*
-* 5-substraction.c - substraction of complex
-* Author: Mozamane
-* Date: March 15, 2022
+* 0-display.c
+* Author: Mozamane Baloyi
+* Date: March 16, 2022
 */
-
 #include "main.h"
 #include <math.h>
 
