@@ -1,7 +1,7 @@
 /*
 * 1-simpson.c - simpson method
-* Author: Mozamane Baloyi
-* Date: April 10, 2022
+* Author:Elizabeth Mashilo
+* Date: April 13, 2022
 */
 
 #define f(x) (1 / (1 + x * x))

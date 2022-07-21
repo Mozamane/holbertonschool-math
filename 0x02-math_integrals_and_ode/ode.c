@@ -1,7 +1,7 @@
 /*
 * 0 - ODE method
-* Author: Mozamane Baloyi
-* Date: 10 April, 2022
+* Author: elizabeth Mashilo
+* Date: April 13, 2022
 */
 
 #include <stdio.h>
